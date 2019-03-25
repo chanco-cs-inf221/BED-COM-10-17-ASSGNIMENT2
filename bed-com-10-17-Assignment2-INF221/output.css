@@ -1,0 +1,19 @@
+body{
+    background: whitesmoke;
+}
+header{
+    background:#0B6623;
+    text-align: center;
+}
+#st{
+    border-radius: 20%;
+}
+footer{
+    background: #0B6623;
+}
+#tax{
+    width: 100%;
+}
+p{
+    border: blue solid;
+}

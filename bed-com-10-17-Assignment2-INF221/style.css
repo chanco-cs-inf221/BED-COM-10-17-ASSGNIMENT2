@@ -1,0 +1,86 @@
+
+
+body{
+    background:#4B5320;
+}
+
+header{
+    background:  #043927;
+    padding: 5px;
+    text-align: top;
+    overflow: hidden;
+}
+header ul{
+    float: right;
+    padding: 5px;
+    list-style: none;
+}
+header ul li{
+    padding: 5px;
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+    background: rgb(44,44,131);
+    padding: 5px 20px;
+    border: 1px solid #00ff0f auto;
+}
+ul li a:hover{
+    background: yellowgreen;
+}
+#cheSteve{
+	border-radius: 50%;
+}
+a{
+	color:blue;
+}
+.PROJECTfORM{
+    padding: 5px;
+    background: transparent;
+    border: 2px double;
+    outline: none;
+    border-bottom: 2px solid;
+    border:2px solid;
+    align-content: center;
+}
+h1{
+    text-align: center;
+}
+#prot{
+    width: 100%;
+    height: 380px;
+}
+.projprojectSameScreen{
+    border: dotted;
+}
+#project_list{
+    color: #00ff0f;
+    width: 70px;
+    border: dotted skyblue;
+}
+#workForm{
+    border: 2px solid;
+
+}
+#workExperience{
+    color: #00ff0f;
+    width: 70px;
+    border: dotted skyblue;
+}
+form #submit{
+    background: #863922;
+    border-color : transparent;
+    color: #fff;
+    font-weight: bold;
+    height: 45px;
+    margin: 20px 20px;
+}
+#submit :hover {
+    background: rgb(165, 196, 102);
+}
+@media only screen and (max-width: 600px) {
+	body {
+	  background-color: lightblue;
+	}
+  }
